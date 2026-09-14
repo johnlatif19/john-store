@@ -1,5 +1,5 @@
 {
-  "name": "trip-store",
+  "name": "john-store",
   "version": "1.0.0",
   "type": "commonjs",
   "main": "api/index.js",
